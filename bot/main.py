@@ -3,7 +3,7 @@ import asyncio
 from bot.routes.commands import *
 
 
-API_TOKEN = '7924276043:AAHLPgqu8KFoGsPvYuM2YN5tA7mGsh1EoCE'
+API_TOKEN = ''
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
